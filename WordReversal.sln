@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.28917.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordReversal", "WordReversal\WordReversal.csproj", "{2E58BA45-AFEA-437B-A2C6-B026EB75FAFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E58BA45-AFEA-437B-A2C6-B026EB75FAFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E58BA45-AFEA-437B-A2C6-B026EB75FAFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E58BA45-AFEA-437B-A2C6-B026EB75FAFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E58BA45-AFEA-437B-A2C6-B026EB75FAFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87EC8A76-1DE2-4EA7-9E77-BC1DE757498D}
+	EndGlobalSection
+EndGlobal

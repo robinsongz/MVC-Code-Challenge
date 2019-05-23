@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Word Reversal App";
+}
+<h2 style="text-align:center;padding:10px;">Reverse Your Word!</h2>
+<form method="post" style="border:solid; padding: 10px; display:flex; justify-content:center; align-items:center;flex-direction:column;">
+    <label for="input">Enter your word</label> <br />
+    <input type="text" id="input" name="input" /> <br />
+    <input type="submit" />
+
+    <h2>@ViewData["Input"]</h2>
+</form>
